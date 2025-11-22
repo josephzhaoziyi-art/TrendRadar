@@ -15,6 +15,9 @@ Minimax
 腾讯
 QWen
 千问
+豆包
+元宝
+夸克
 X.com
 Grok
 Midjourney
@@ -43,9 +46,25 @@ A2A
 A2P
 vibe coding
 codex
-
+sakana
+mistral
+rwkv
+jina
+runway
+pika
+vido
+可灵
+剪映
+混元
+skyreal
 
 科技
+techcrunch
+36kr
+notion
+huggingface
+aws
+华为
 智能眼镜
 智能设备
 AI陪伴
@@ -53,7 +72,9 @@ B2B
 content marketing
 SAAS
 加密货币
+DOGE
 稳定币
+比特币
 crypto
 量子计算
 生物医疗
@@ -100,6 +121,8 @@ GPU
 宇宙
 飞船
 航空
+微信
+小红书
 
 美股
 港股
@@ -128,6 +151,8 @@ Meta
 高通
 蔚来
 快手
-
-
-
+Google
+英伟达
+openai
+微软
+Amazon
