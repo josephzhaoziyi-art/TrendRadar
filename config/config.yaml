@@ -106,6 +106,10 @@ platforms:
     name: "华尔街见闻 最新"
   - id: "cls-hot"
     name: "财联社热门"
+  - id: "cls-telegraph"
+    name: "财联社 电报"
+  - id: "cls-depth"
+    name: "财联社 深度"
   - id: "gelonghui"
     name: "格隆汇"
   - id: "xueqiu"
@@ -115,46 +119,7 @@ platforms:
   - id: "fastbull"
     name: "快讯通"
 
-  # === 社交/短视频/娱乐类 ===
-  - id: "weibo"
-    name: "微博"
-  - id: "douyin"
-    name: "抖音"
-  - id: "bilibili-hot-search"
-    name: "bilibili 热搜"
-  - id: "tieba"
-    name: "贴吧"
-  - id: "zhihu"
-    name: "知乎"
-  - id: "hupu"
-    name: "虎扑"
-
-  # === 科技类平台 ===
-  - id: "ithome"
-    name: "IT之家"
-  - id: "juejin"
-    name: "掘金"
-  - id: "github"
-    name: "GitHub"
-  - id: "hackernews"
-    name: "Hacker News"
-  - id: "solidot"
-    name: "Solidot"
-  - id: "v2ex"
-    name: "V2EX"
-  - id: "nowcoder"
-    name: "牛客网"
-  - id: "pcbeta"
-    name: "远景论坛"
-  - id: "sspai"
-    name: "少数派"
-  - id: "producthunt"
-    name: "ProductHunt"
-
-  # === 其他/工具类 ===
-  - id: "chongbuluo"
-    name: "虫部落"
-
+  
   # ======================================================
   # 暂时失败的渠道（可能需要修复或接口已变更）
   # 备注：以下渠道在测试中抓取失败，已暂时注释
